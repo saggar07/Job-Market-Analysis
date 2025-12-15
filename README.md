@@ -12,9 +12,13 @@ This project follows a real-world data analytics workflow, including data cleani
 
 ## 📂Dataset Information
 Dataset: lukebarousse/data_jobs
+
 Source: Hugging Face (curated by Luke Barousse)
+
 Type: Structured job postings data
+
 Rows: 10,000+ job listings
+
 Columns: 25+ features
 
 Key Columns:
@@ -57,6 +61,7 @@ Created visualizations to highlight trends and insights
 
 ## 📈 Key Analysis Performed
 Trending Skills Analysis
+
 Optimal Skills Analysis
 
 ## 💡 Key Insights
