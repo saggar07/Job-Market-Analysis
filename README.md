@@ -57,6 +57,7 @@ Created visualizations to highlight trends and insights
 
 ## 📈 Key Analysis Performed
 Trending Skills Analysis
+Optimal Skills Analysis
 
 ## 💡 Key Insights
 Data Analyst and Data Scientist roles dominate job postings
