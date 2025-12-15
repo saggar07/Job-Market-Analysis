@@ -10,6 +10,11 @@ How salaries vary across roles, locations, and experience levels
 The impact of remote work on compensation
 This project follows a real-world data analytics workflow, including data cleaning, exploratory data analysis (EDA), and insight-driven visualizations.
 
+In this code, I found the most demanded skills for the top 3 most popular data roles in the United States of America. I filtered out those positions by which ones were the most popular, and got the top 5 skills for these top 3 roles. This query highlights the most popular job titles and their top skills, showing which skills I should pay attention to depending on the role I'm targeting.
+
+View my notebook with detailed steps here:
+[trending_skills.ipynb]()
+
 ## 📂Dataset Information
 Dataset: lukebarousse/data_jobs
 Source: Kaggle (curated by Luke Barousse)
@@ -68,5 +73,7 @@ Certain countries and regions consistently offer higher compensation
 ## 👤 Author
 
 Name: Uday Saggar
+
 Skills: Python, SQL, Data Analysis, Data Cleaning, Data Visualization
+
 Target Role: Data Analyst
