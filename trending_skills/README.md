@@ -40,10 +40,16 @@ Unique job titles are extracted from the dataset, and the first three (alphabeti
 
 Horizontal bar charts are created to visualize the top 5 skills for each selected job title based on raw counts. Each job title has its own subplot, making it easy to compare the most frequently required skills across different roles.
 
+<img width="624" height="472" alt="image" src="https://github.com/user-attachments/assets/b60f4295-3e41-46a0-8bea-01ffcb49f21b" />
+
+
 
 ## 7. Counting Total Job Postings per Job Title
 
 The total number of job postings per job title is calculated to understand overall demand for each role. This provides context for interpreting the skill counts relative to the size of each job category.
+
+<img width="375" height="363" alt="image" src="https://github.com/user-attachments/assets/393dcb4c-2fb2-4e23-9537-915fe24f3e63" />
+
 
 ## 8. Calculating Skill Percentages per Job Title
 
