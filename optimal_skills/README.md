@@ -3,6 +3,8 @@
 
 This notebook analyzes the most in-demand skills for Data Analyst positions in the United States and explores their potential impact on median yearly salaries. By aggregating skill counts, calculating skill percentages, and visualizing high-demand skills, the analysis helps professionals identify the most critical skills for advancing in Data Analyst roles.
 
+View my notebook with detailed steps here: [optimal_skills.ipynb]()
+
 ## 1. Workflow Description
 Importing Libraries and Loading Data
 
@@ -39,6 +41,8 @@ Results are sorted by skill_count to highlight the most frequently requested ski
 ## 5. Calculating Skill Percentages and Identifying High-Demand Skills
 
 To normalize skill importance, the notebook calculates skill_percent, representing the percentage of Data Analyst postings requiring each skill. Skills appearing in more than 5% of postings are classified as high-demand skills, forming the df_DA_skills_high_demand DataFrame. This highlights the skills most critical for US Data Analyst roles.
+
+<img width="484" height="477" alt="image" src="https://github.com/user-attachments/assets/78ea384c-8177-4080-8dce-1a89ddb8ff83" />
 
 ## 6. Visualizing High-Demand Skills vs. Median Salary
 
