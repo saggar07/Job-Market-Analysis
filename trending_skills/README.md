@@ -3,7 +3,8 @@
 
 This notebook analyzes trends in technical skills across job postings in the United States. It identifies the most in-demand skills for different job titles by counting their occurrences, calculating relative importance, and visualizing the results. The analysis provides actionable insights for job seekers and professionals aiming to focus on skills that are currently in high demand in the job market.
 
-View my notebook with detailed steps here: [trending_skills.ipynb]()
+View my notebook with detailed steps here:
+[Run on Colab](https://colab.research.google.com/github/saggar07/Job-Market-Analysis/blob/main/trending_skills.ipynb)
 
 ## 1. Workflow Description
 Importing Libraries and Loading Data-
