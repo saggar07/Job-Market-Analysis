@@ -3,7 +3,8 @@
 
 This notebook analyzes the most in-demand skills for Data Analyst positions in the United States and explores their potential impact on median yearly salaries. By aggregating skill counts, calculating skill percentages, and visualizing high-demand skills, the analysis helps professionals identify the most critical skills for advancing in Data Analyst roles.
 
-View my notebook with detailed steps here: [optimal_skills.ipynb]()
+View my notebook with detailed steps here:
+[Run on Colab](https://colab.research.google.com/github/saggar07/Job-Market-Analysis/blob/main/optimal_skills.ipynb)
 
 ## 1. Workflow Description
 Importing Libraries and Loading Data
